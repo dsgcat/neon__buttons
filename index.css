@@ -11,6 +11,7 @@ body {
     align-items: center;
     height: 100vh;
     background: #000000;
+    flex-wrap: wrap;
 }
 
 a {
